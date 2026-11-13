@@ -4,6 +4,7 @@
 ![Django](https://img.shields.io/badge/Django%204.2-092E20?logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST-A30000?logo=django&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+[![Django Tests](https://github.com/JRFilho1503/flix_api/actions/workflows/django.yml/badge.svg)](https://github.com/JRFilho1503/flix_api/actions/workflows/django.yml)
 
 **API REST** de um catálogo de filmes feita com **Django REST Framework**: gêneros, atores, filmes e avaliações, com **autenticação JWT** e **permissões por rota**.
 
