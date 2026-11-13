@@ -68,6 +68,14 @@ curl http://localhost:8000/api/v1/movies/ \
   -H "Authorization: Bearer <access_token>"
 ```
 
+## 🧪 Testes
+
+Suíte de API (DRF `APITestCase`) cobrindo **autenticação (401)**, **permissão (403)** e **CRUD** — ver `genres/tests.py`.
+
+```bash
+python manage.py test
+```
+
 ---
 
 Projeto de estudo/prática em Django REST Framework. Sugestões são bem-vindas.
